@@ -26,7 +26,14 @@
 <br />
 <br />
 
+### Some of my frontend projects ---
+    - [Daily breaking news][link1]
+    - [Wall Clock][link2]
+    - [Magic-notes][link3]
 
+
+<br />
+<br />
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -38,4 +45,6 @@
 [twitter]: https://twitter.com/diveshpandey786
 [instagram]: https://www.instagram.com/pandeydiveshkumar/
 [linkedin]: https://www.linkedin.com/in/divesh-kumar-26040a16a/
-
+[link1]:https://divesh-netizen.github.io/Daily_Breaking_News/
+[link2]:https://divesh-netizen.github.io/wall-clock/
+[link3]:https://divesh-netizen.github.io/Mogic-Notes
