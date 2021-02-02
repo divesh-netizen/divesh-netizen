@@ -27,9 +27,9 @@
 <br />
 
 ### Some of my frontend projects ---
-    - [Daily breaking news][link1]
-    - [Wall Clock][link2]
-    - [Magic-notes][link3]
+## [Daily breaking news][link1]
+## [Wall Clock][link2]
+## [Magic-notes][link3]
 
 
 <br />
