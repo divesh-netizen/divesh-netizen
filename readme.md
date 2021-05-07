@@ -1,7 +1,7 @@
 ### Hi there, I'm Divesh - aka [divesh-netizen][website] 👋
 
 
-## I'm a 3rd year Stuedent, Developer with huge interest in Data Science , machine learning and Deep learning!!
+## I'm a 3rd year Student, Developer with huge interest in Data Science , machine learning and Deep learning!!
 
 
 - 🌱 I’m currently learning everything I can 🤣
