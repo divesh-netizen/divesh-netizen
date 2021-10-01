@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning everything I can 🤣
-- 👯 I’m looking for internship.
+- 👯 I’m looking for internship / Job.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love chai over cofee. 
 
