@@ -6,8 +6,9 @@
 
 - 🌱 I’m currently learning everything I can 🤣
 - 👯 I’m looking for internship / Job.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love chai over coffee. 
+- 🎵 Love 70's song - old school
 
 ### Spotify Playing 🎧
 
