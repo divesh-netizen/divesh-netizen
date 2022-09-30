@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning Java..., aise hi sexy lg ra tha 🤣
-- 👯 I’m looking for internship / Job.
+- 👯 I’m looking for Job and have quite experience in flask Backend and frontend React.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love chai over coffee. 
 - 🎵 Love 70's song - old school
