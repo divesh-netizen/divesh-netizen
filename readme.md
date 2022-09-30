@@ -4,7 +4,7 @@
 ## I'm a 4th year Student, Developer with huge interest in Data Science , machine learning and Deep learning!!
 
 
-- 🌱 I’m currently learning everything I can 🤣
+- 🌱 I’m currently learning Java..., aise hi sexy lg ra tha 🤣
 - 👯 I’m looking for internship / Job.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love chai over coffee. 
