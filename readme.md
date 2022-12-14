@@ -1,7 +1,9 @@
 ### Hi there, I'm Divesh - aka [divesh-netizen][website] 👋
 
 
-## I'm a 4th year Student, Developer with huge interest in Data Science , machine learning and Deep learning!!
+## I'm a Developer at RazorEdge Analytics(StartUp) and I am huge interest in Data Science , machine learning and Deep learning and Trying to Learn Whatever I could!!
+
+## You can check My All Project Mostly are From Full Stack or Machine Learning. I will Be adding More......
 
 
 - 🌱 I’m currently learning Java..., aise hi sexy lg ra tha 🤣
