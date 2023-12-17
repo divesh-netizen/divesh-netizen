@@ -1,14 +1,18 @@
 ### Hi there, I'm Divesh - aka [divesh-netizen][website] 👋
 
 
-## I'm a Full Stack Developer at RazorEdge Analytics(StartUp) and I am huge interest in Data Science , machine learning and Deep learning and Trying to Learn Whatever I could!!
+## I serve as a Full Stack Developer at Razor Edge Analytics, where I handle both front-end and back-end development using Python (Flask) and React
+## Working in the financial sector, I've cultivated a strong interest in Machine Learning and Data Science. These skills are actively applied in my current role, where I work with complex financial data. My expertise extends to DevOps practices, which have further enriched my technical toolkit.
+## In my pursuit of continuous growth, I've also learned and successfully applied the MERN stack, demonstrating my adaptability and commitment to expanding my skillset. I also adding related Project Here.
+
 
 ## You can check My All Project Mostly are From Full Stack or Machine Learning. I will Be adding More......
+## My All 6 Pinned Project Showcase my skill in flask, React, MERN stack and Mack=hine Learning you can check out them.....
 
 
-- 🌱 I’m currently learning Java..., aise hi sexy lg ra tha 🤣
-- 👯 I’m looking for Job and have quite experience in flask Backend and frontend React.
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 I recently Learned MERN Stack. I’m currently engage in project related to it...,
+- 👯 I’m looking for Job and have quite experience in flask and React with Full-Stack-Knowledge.
+- 🥅 2024 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love chai over coffee. 
 - 🎵 Love 70's song - old school
 
@@ -61,6 +65,5 @@
 [twitter]: https://twitter.com/diveshpandey786
 [instagram]: https://www.instagram.com/pandeydiveshkumar/
 [linkedin]: https://www.linkedin.com/in/divesh-kumar-26040a16a/
-[link1]:https://divesh-netizen.github.io/Daily_Breaking_News/
-[link2]:https://divesh-netizen.github.io/wall-clock/
-[link3]:https://divesh-netizen.github.io/Mogic-Notes
+[link1]:https://github.com/divesh-netizen/US_HOUSE_PRICE_ANALYSIS
+[link2]:https://github.com/divesh-netizen/food-tracker
