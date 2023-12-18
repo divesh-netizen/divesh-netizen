@@ -10,8 +10,8 @@
 -  My All 6 Pinned Project Showcase my skill in flask, React, MERN stack and Mack=hine Learning you can check out them.....
 
 
-- 🌱 I recently Learned MERN Stack. I’m currently engage in project related to it...,
-- 👯 I’m looking for Job and have quite experience in flask and React with Full-Stack-Knowledge.
+- 🌱 I am Good at Both stack Python(Flask) + React and Another one is Node.js + React. I’m continuously engaged in project related to it too...,
+- 👯 I’m looking for Job and have 2 Year experience in flask, React and Node.js with Full-Stack-Knowledge.
 - 🥅 2024 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love chai over coffee. 
 - 🎵 Love 70's song - old school
