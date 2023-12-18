@@ -1,7 +1,7 @@
 ### Hi there, I'm Divesh - aka [divesh-netizen][website] 👋
 
 
-## I serve as a Full Stack Developer at Razor Edge Analytics, where I handle both front-end and back-end development using Python (Flask) and React
+## I serve as a Full Stack Developer at Razor Edge Analytics, where I handle Two Project one with Python(Flask) + React and Another one is Node.js + React.
 -  Working in the financial sector, I've cultivated a strong interest in Machine Learning and Data Science. These skills are actively applied in my current role, where I work with complex financial data. My expertise extends to DevOps practices, which have further enriched my technical toolkit.
 - In my pursuit of continuous growth, I've also learned and successfully applied the MERN stack, demonstrating my adaptability and commitment to expanding my skillset. I also adding related Project Here.
 
