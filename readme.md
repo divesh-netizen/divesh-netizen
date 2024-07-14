@@ -1,17 +1,18 @@
 ### Hi there, I'm Divesh - aka [divesh-netizen][website] 👋
 
+## I'm currently working as a Solution Engineer at innvatics(Ahmedabad). here I am Inovolved with multiple project as a fullstack developer, I am currently applying my most recent skill.
+ - I am currently Learning and applying AWS solution Architect, Terraform, Ansible and jenkins.
 
-## I serve as a Full Stack Developer at Razor Edge Analytics, where I handle Two Project one with Python(Flask) + React and Another one is Node.js + React.
+## My Prior excperience include as a Full Stack Developer at Razor Edge Analytics, where I handled Two Project one with Python(Flask) + React and Another one is Node.js + React.
 -  Working in the financial sector, I've cultivated a strong interest in Machine Learning and Data Science. These skills are actively applied in my current role, where I work with complex financial data. My expertise extends to DevOps practices, which have further enriched my technical toolkit.
 - In my pursuit of continuous growth, I've also learned and successfully applied the MERN stack, demonstrating my adaptability and commitment to expanding my skillset. I also adding related Project Here.
 
-
 -  You can check My All Project Mostly are From Full Stack or Machine Learning. I will Be adding More......
--  My All 6 Pinned Project Showcase my skill in flask, React, MERN stack and Mack=hine Learning you can check out them.....
+-  My All 6 Pinned Project Showcase my skill in flask, React, MERN stack and Machine Learning you can check out them.....
 
 
-- 🌱 I am Good at Both stack Python(Flask) + React and Another one is Node.js + React. I’m continuously engaged in project related to it too...,
-- 👯 I’m looking for Job and have 2 Year experience in flask, React and Node.js with Full-Stack-Knowledge.
+- 🌱 I am Experienced with Python(Flask, Django, FastAPI), React.js, Redux, UI, Node.js + React. I’m continuously engaged in project related to it too...,
+- 👯 I’m always looking for better oppurtunity.
 - 🥅 2024 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love chai over coffee. 
 - 🎵 Love 70's song - old school
