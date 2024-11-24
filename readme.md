@@ -1,4 +1,3 @@
-Here's an updated and polished version of your GitHub homepage content:  
 
 ---
 
@@ -92,5 +91,3 @@ Other projects include:
 [link2]: https://github.com/divesh-netizen/food-tracker  
 
 ---
-
-Let me know if you need further customization! 😊
