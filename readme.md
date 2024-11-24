@@ -1,93 +1,128 @@
+---
+
+# Hi there, I'm Divesh - aka [divesh-netizen][website] 👋
+
+Welcome to my coding playground! 🚀 I’m a **Solution Engineer** currently crafting innovative solutions at Innovatics in Ahmedabad, where I dive deep into **Full Stack Development**, **Machine Learning**, and **DevOps**. I'm constantly expanding my horizons, learning tools like **AWS Solution Architect**, **Terraform**, **Ansible**, and **Jenkins** to stay ahead in the game.
 
 ---
 
-### Hi there, I'm Divesh - aka [divesh-netizen][website] 👋  
+## 🌟 About Me  
 
-## About Me  
-I am a passionate **Solution Engineer** at **Innovatics** (Ahmedabad), where I contribute as a full-stack developer and work on cutting-edge projects involving **Python**, **AWS**, and **DevOps** practices. I thrive on learning and applying new technologies, recently diving into **AWS Solution Architect**, **Terraform**, **Ansible**, and **Jenkins** to enhance my expertise.  
-
----
-
-## Professional Experience  
-### Current Role  
-At **Innovatics**, I’ve developed:  
-- **Private LLM Service**: A secure and dynamic chat widget for querying personal data.  
-- **Serverless ML Training**: Deployed ML workloads using **AWS ECS Fargate**, ensuring efficient scaling and dependency management.  
-- **MLOps Pipelines**: Created Python SDKs for secure communication, integrating **Keycloak RBAC** and dynamic scaling solutions.  
-- **CI/CD Pipelines**: Designed multi-cloud pipelines using Terraform, Ansible, and Azure DevOps.  
-
-### Previous Roles  
-At **Razor Edge Analytics**, I delivered:  
-- **Financial Analytics Tools**: Built stock market analysis systems and integrated **ChatGPT** for financial decision-making.  
-- **Web Development**: Worked extensively with **Python (Flask)** and **MERN stack**, deploying over 100 APIs and enhancing the user experience.
+- 🧑‍💻 **Tech-Savvy Tinkerer**: From coding 100+ APIs to integrating ML models into production, I thrive on turning ideas into scalable solutions.  
+- 💡 **Cloud Explorer**: Building serverless apps, deploying containerized workloads, and orchestrating CI/CD pipelines across **AWS**, **Azure**, and **Google Cloud**.  
+- 💻 **Full-Stack Magic**: Python 🐍 (Flask, Django, FastAPI), React.js ⚛️, Node.js, and the MERN stack — I've got you covered!  
+- 🔍 **Data Enthusiast**: Whether it's analyzing US house prices or predicting customer churn, I love unlocking insights from data.  
 
 ---
 
-## Skill Set  
-### Tech Stack  
-- **Languages**: Python, JavaScript, C++, Bash.  
-- **Frameworks**: Flask, Django, FastAPI, React.js.  
-- **DevOps**: AWS (ECS, EC2, S3), Terraform, Docker, Kubernetes, CI/CD.  
-- **Data Science**: Machine Learning, PySpark, Data Visualization.  
+## 💪 My Tech Journey  
 
-### Certification and Learning  
-- **Coursera**: Python, Machine Learning, Data Analysis.  
-- **Currently Preparing**: AWS Solution Architect Certification.  
+### **Innovatics: Solution Engineer (04/2024 - Present)**  
 
----
+#### **Private LLM Service**  
+- Engineered a secure platform enabling users to query personal data via a private **Large Language Model (LLM)**.  
+- Designed REST APIs for backend communication and a dynamic frontend for seamless user interaction.  
 
-## Projects  
-### Featured Work  
-- **[US House Price Analysis][link1]**: Analyzed trends in US housing prices over 20 years using **Python**, **Streamlit**, and **Heroku**.  
-- **[Food Tracker][link2]**: A Flask-based nutrient monitoring app showcasing Python and SQLite expertise.  
+#### **Serverless ML Workloads**  
+- Deployed ML workloads on **AWS ECS Fargate**, eliminating server dependencies and simplifying environment setup with Docker.  
 
-Other projects include:  
-- **Shopping Mall Location Analysis**: Optimized locations using **K-means clustering**.  
-- **Telegram News Bot**: Delivered personalized news updates with **Flask** and **Telegram APIs**.  
+#### **Scalable ECS Tasks & High Availability**  
+- Implemented **ECS Auto Scaling** policies to dynamically handle CPU-intensive workloads.  
+- Configured **AWS ALB** for optimized traffic distribution and secured workloads with encrypted EC2 instances in multi-AZ setups.  
 
----
+#### **Modular Flask Applications**  
+- Created a prediction service using **Flask Blueprints**, optimizing performance with caching and resource management.  
+- Deployed on **Kubernetes**, ensuring high scalability and resilience under heavy loads.  
 
-## 2024 Goals  
-- 🌱 Contribute to **open-source projects**.  
-- 🚀 Advance in **AWS and cloud technologies**.  
-- 🧠 Build more **ML-powered solutions**.  
+#### **Dynamic Deployment Solutions**  
+- Developed fully automated deployment solutions utilizing Docker, serverless tools, dynamic monitoring, and secured storage configurations.  
 
----
+#### **Python SDK & RBAC Integration**  
+- Built a Python SDK to facilitate secure API interactions with **API Key-based authentication**.  
+- Enhanced platform security with **Keycloak-based RBAC** for fine-grained access control.  
 
-## Fun Facts  
-- ☕ **Team Chai** over coffee.  
-- 🎵 A fan of 70s old-school music.  
+#### **Advanced MLOps Pipelines**  
+- Automated the entire ML lifecycle with MLOps pipelines for monitoring, scaling, and deployment.  
+- Integrated **CloudWatch** for logging and performance tracking, ensuring optimal resource utilization.  
 
----
+#### **CI/CD Excellence**  
+- Designed **multi-cloud CI/CD pipelines** for production and staging environments:  
+  - **AWS**: Automated with **Terraform**, **Ansible**, and **Jenkins**, leveraging services like ECS, RDS, and Auto Scaling.  
+  - **Azure**: Deployed **Computer Vision Flask Apps** on VMs using **Azure DevOps pipelines**.  
 
-### Spotify Playing 🎧  
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="divesh-netizen Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)  
+#### **Real-Time Data Processing with Streaming Services**  
+- Built a robust pipeline for real-time data ingestion and processing using **Kafka** and **Kinesis**.  
+- Designed custom streaming processors for predictive analytics in **Flask**.  
 
----
-
-### GitHub Stats 📊  
-#### Top Languages  
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divesh-netizen&langs_count=10&theme=tokyonight&layout=compact" alt="Top Langs" /></p>  
-
-#### GitHub Overview  
-<details>
-  <summary>:zap: My Stats</summary>  
-  <img align="left" alt="divesh-netizen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=divesh-netizen&show_icons=true&theme=synthwave" />  
-</details>  
+#### **Security & Performance Optimization**  
+- Enforced security best practices like **IAM roles**, encrypted storage, and **VPC isolation** for sensitive applications.  
+- Optimized ML inference pipelines for speed and accuracy using **ONNX Runtime**.  
 
 ---
 
-### Connect with Me  
+### **Prior Roles**  
+
+- **Razor Edge Analytics**:  
+  - Developed stock analysis tools and **AI-driven customer support systems** with ChatGPT integration.  
+  - Created a stunning website with **Node.js**, **MongoDB**, and **React.js**.  
+
+- **IEM Labs**:  
+  - Explored **Machine Learning** and **Computer Vision** with hands-on projects.  
+
+---
+
+## 🎯 2024 Goals  
+
+- 🌱 Contribute to **open-source projects** and share knowledge with the developer community.  
+- 📚 Master AWS Solution Architecture and cloud-native development.  
+- 🤝 Collaborate with tech enthusiasts to build impactful solutions.  
+
+---
+
+## 🌍 Fun Facts  
+
+- 🍵 Tea > Coffee: A cup of chai fuels my day!  
+- 🎵 Old School Tunes: Big fan of the '70s – retro vibes for a modern coder.  
+- 🏔️ Adventure Lover: Hiking trails and exploring new terrains recharges my creativity.  
+
+---
+
+## 📌 Pinned Projects  
+
+Check out my **6 pinned projects** showcasing my expertise in:  
+- Flask and React.js  
+- MERN stack development  
+- Machine learning and data analysis  
+
+I’ll keep adding more exciting projects, so stay tuned!  
+
+---
+
+### Spotify Vibes 🎧  
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Divesh's Spotify" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)  
+
+---
+
+### **Top Languages**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divesh-netizen&langs_count=10&theme=tokyonight&layout=compact)  
+
+---
+
+### **Portfolio**  
+
+Visit my [Portfolio](https://divesh-netizen.github.io/Divesh-P/) to explore more about my work!  
+
+---
+
+### **Connect with Me**  
+
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
 
 [website]: https://divesh-netizen.github.io/Divesh-P/  
-[twitter]: https://twitter.com/diveshpandey786  
-[instagram]: https://www.instagram.com/pandeydiveshkumar/  
 [linkedin]: https://www.linkedin.com/in/divesh-kumar-26040a16a/  
-[link1]: https://github.com/divesh-netizen/US_HOUSE_PRICE_ANALYSIS  
-[link2]: https://github.com/divesh-netizen/food-tracker  
+[instagram]: https://www.instagram.com/pandeydiveshkumar/  
 
 ---
